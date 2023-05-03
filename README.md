@@ -8,6 +8,8 @@ time dependent schrodinger equation with chebyshev time integral
 
 ### 文件夹说明
 
-`final2/` 可以直接运行的示例程序。
-`anaTest/` python端，包括计算、作图等等。
+`final2/` 可以直接运行的示例程序。  
+
+`anaTest/` python端，包括计算、作图等等。  
+
 `Cheby_dll_final/` cpp dll项目，可运行自检和粗略的ascii作图。
