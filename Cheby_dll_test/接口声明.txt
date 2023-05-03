@@ -1,0 +1,4 @@
+def double* analytic_test_init();
+def double analytic_test_single();
+def void end_test();
+def void test();

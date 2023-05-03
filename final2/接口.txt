@@ -1,0 +1,8 @@
+def double* main_proj_init();
+def double main_proj_single();
+def void end_test();
+def void test();
+def void set_timeSpan(double t);
+def void set_iter(int n);
+def void set_momentum(double p);
+def void set_sigma(double s);
